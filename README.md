@@ -9,3 +9,4 @@
 ![Screenshot](https://github.com/Subham-Maity/HTML-Tutorial/blob/master/1.%20Images(ignore)/9.jpg)
 ![Screenshot](https://github.com/Subham-Maity/HTML-Tutorial/blob/master/1.%20Images(ignore)/10.jpg)
 ![Screenshot](https://github.com/Subham-Maity/HTML-Tutorial/blob/master/1.%20Images(ignore)/11.jpg)
+![Screenshot](https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/1.%20Images(ignore)/12.jpg)
