@@ -11,3 +11,4 @@
 ![Screenshot](https://github.com/Subham-Maity/HTML-Tutorial/blob/master/1.%20Images(ignore)/11.jpg)
 ![Screenshot](https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/1.%20Images(ignore)/12.jpg)
 ![Screenshot](https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/1.%20Images(ignore)/13.jpg)
+![Screenshot](https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/1.%20Images(ignore)/14.jpg)
