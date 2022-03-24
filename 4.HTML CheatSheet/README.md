@@ -31,7 +31,7 @@ This is the basic template or barebone structure of HTML.
 #### **Boilerplate**
 
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
