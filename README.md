@@ -3,7 +3,7 @@
 I am **Subham Maity**
 I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
 
-## Chapter
+## Chapters
 * [**Intro**](#intro)
 * [**Level 1**](#level-1)
   * [1. Basic HTML](#1basic-html)
