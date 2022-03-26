@@ -258,5 +258,19 @@ view-source:https://www.google.com/
 
 
 <p align="center">
-        <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1590818624-1.jpg"/>
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/6.png?raw=true"/>
+        </p>
+
+
+## 8.Big & Small Tags
+**Used to highlight text in your page**
+
+```html
+<big> Big </big>
+<small> Small </small>
+```
+
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/6.png?raw=true"/>
         </p>
