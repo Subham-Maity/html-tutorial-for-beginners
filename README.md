@@ -215,6 +215,8 @@ view-source:https://www.google.com/
 ```html
 <a href="https://google.com"> Google </a>
 ```
+**How it looks** 
+
 <p align="center">
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/5.png?raw=true"/>
         </p>
