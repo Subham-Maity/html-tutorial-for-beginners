@@ -6,6 +6,7 @@
   * [2. First HTML File](#2first-html-file)
   * [3. HTML Tag](#3html-tag)
   * [4. basic HTML page](#4basic-html-page)
+  * [5. QuickPoints](#4basic-html-page)
 
 # **Intro**
 [**For Detailed with visualization**](https://blog.codeanalogies.com/2018/05/09/the-relationship-between-html-css-and-javascript-explained/) 
@@ -108,6 +109,32 @@ A JavaScript file determines the dynamic and interactive elements on the page. I
 </html>
 
 ```
+
+## 5.Quick Points
+**1.Html tag is parent of head & body tag**
+```html
+<html lang="en">    </html>
+```
+
+**2.Most of html elements have opening & closing tags with content in between**
+
+```html
+<head>   </head>
+```
+
+**3.Some tags have no content in between, eg -** 
+```html
+<br>
+```
+
+**4.We can use inspect element/view page source to edit html -**
+
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/3.png?raw=true"/>
+        </p>
+
+
 
 
 
