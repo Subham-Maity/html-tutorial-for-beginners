@@ -272,5 +272,18 @@ view-source:https://www.google.com/
 
 
 <p align="center">
-        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/6.png?raw=true"/>
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/7.png?raw=true"/>
+        </p>
+
+
+## 9.Hr Tag
+**Used to display a horizontal ruler, used to separate content**
+
+```html
+<hr>
+```
+
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/7.png?raw=true"/>
         </p>
