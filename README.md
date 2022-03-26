@@ -2,7 +2,7 @@
 ## Chapter
 * [**Intro**](#intro)
 * [**Level 1**](#level-1)
-* 
+  * [Basic HTML](#basic-html)
 
 # **Intro**
 [**For Detailed with visualization**](https://blog.codeanalogies.com/2018/05/09/the-relationship-between-html-css-and-javascript-explained/) 
@@ -26,10 +26,14 @@ A JavaScript file determines the dynamic and interactive elements on the page. I
 # **Level 1**
 
 ## Basic HTML
-1.Hyper Text Markup Language
-2.HTML is the code that is used to
-3.structure a web page and its content.
-4.The component used to design the
-5.structure of websites are called HTML tags
+**1.Hyper Text Markup Language**
+
+**2.HTML is the code that is used to**
+
+**3.structure a web page and its content.**
+
+**4.The component used to design the**
+
+**5.structure of websites are called HTML tags**
 
 
