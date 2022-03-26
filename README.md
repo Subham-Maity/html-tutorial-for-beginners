@@ -208,6 +208,16 @@ view-source:https://www.google.com/
 <p> This is a sample paragraph </p>
 ```
 
+## 4.Anchor Tag
+
+**Used to add links to your page**
+
+```html
+<a href="https://google.com"> Google </a>
+```
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/4.png?raw=true"/>
+        </p>
 
 
 
