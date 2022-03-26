@@ -216,7 +216,7 @@ view-source:https://www.google.com/
 <a href="https://google.com"> Google </a>
 ```
 <p align="center">
-        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/4.png?raw=true"/>
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/5.png?raw=true"/>
         </p>
 
 
