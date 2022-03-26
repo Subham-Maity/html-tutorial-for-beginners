@@ -221,7 +221,18 @@ view-source:https://www.google.com/
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/5.png?raw=true"/>
         </p>
 
+## 5.Image Tag
 
+**Used to add links to your page**
+
+```html
+<img src="/image.png" alt="Description">
+```
+
+
+<p align="center">
+        <img src="http://www.easytolearning.com/webroot/ck_files/files/html-image-tag.png"/>
+        </p>
 
 
 
