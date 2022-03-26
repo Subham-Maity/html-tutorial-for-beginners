@@ -75,7 +75,32 @@ A JavaScript file determines the dynamic and interactive elements on the page. I
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/1.png?raw=true"/>
         </p>
 
+## 4.Basic HTML Page
 
+**1.Open vs Code** 
+
+**2. and type !**
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/1.png?raw=true"/>
+        </p>
+
+**3.Body**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+```
 
 
 
