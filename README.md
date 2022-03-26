@@ -72,8 +72,9 @@ A JavaScript file determines the dynamic and interactive elements on the page. I
 **A container for some content or other HTML tags**
 
 <p align="center">
-        <img src="https://code.makery.ch/library/html-css/part1/new-index-file.png"/>
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/1.png?raw=true"/>
         </p>
+
 
 
 
