@@ -82,8 +82,14 @@ A JavaScript file determines the dynamic and interactive elements on the page. I
 **2. and type !**
 
 <p align="center">
-        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/1.png?raw=true"/>
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/2.png?raw=true"/>
         </p>
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/3.png?raw=true"/>
+        </p>
+
+
 
 **3.Body**
 ```html
