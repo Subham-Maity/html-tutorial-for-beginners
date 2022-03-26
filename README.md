@@ -5,6 +5,7 @@
   * [1. Basic HTML](#1basic-html)
   * [2. First HTML File](#2first-html-file)
   * [3. HTML Tag](#3html-tag)
+  * [4. basic HTML page](#4basic-html-page)
 
 # **Intro**
 [**For Detailed with visualization**](https://blog.codeanalogies.com/2018/05/09/the-relationship-between-html-css-and-javascript-explained/) 
