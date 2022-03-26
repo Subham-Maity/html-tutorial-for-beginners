@@ -263,7 +263,7 @@ view-source:https://www.google.com/
 
 
 ## 8.Big & Small Tags
-**Used to highlight text in your page**
+**Used to display big & small text on your page**
 
 ```html
 <big> Big </big>
@@ -298,5 +298,22 @@ view-source:https://www.google.com/
 
 
 <p align="center">
-        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/8.png?raw=true"/>
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/9.png?raw=true"/>
         </p>
+
+
+## 11.Pre Tag 
+**Used to display text as it is (without ignoring spaces & next line)**
+
+```html
+<pre> This
+is a sample
+text.
+</pre>
+```
+
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/9.png?raw=true"/>
+        </p>
+
