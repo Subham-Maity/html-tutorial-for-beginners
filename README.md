@@ -12,6 +12,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
   * [4. basic HTML page](#4basic-html-page)
   * [5. QuickPoints](#5quick-points)
   * [6.Comments in HTML](#6comments-in-html)
+  * [7.HTML is NOT case sensitive](#7html-is-not-case-sensitive)
 
 # **Intro**
 [**For Detailed with visualization**](https://blog.codeanalogies.com/2018/05/09/the-relationship-between-html-css-and-javascript-explained/) 
@@ -156,6 +157,17 @@ view-source:https://www.google.com/
 
 ```
 
+## 7.HTML is NOT case sensitive
+
+
+```html
+
+<html> = <HTML>
+<p> = <P>
+<head> = <HEAD>
+<body> = <BODY>
+
+```
 
 
 
