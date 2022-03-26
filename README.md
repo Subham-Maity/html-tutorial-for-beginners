@@ -6,7 +6,8 @@
   * [2. First HTML File](#2first-html-file)
   * [3. HTML Tag](#3html-tag)
   * [4. basic HTML page](#4basic-html-page)
-  * [5. QuickPoints](#4basic-html-page)
+  * [5. QuickPoints](#5quick-points)
+  * [6.Comments in HTML](#6comments-in-html)
 
 # **Intro**
 [**For Detailed with visualization**](https://blog.codeanalogies.com/2018/05/09/the-relationship-between-html-css-and-javascript-explained/) 
@@ -141,6 +142,15 @@ view-source:https://www.google.com/
 
 ```
 
+## 6.Comments in HTML
+
+**This is part of code that should not be parsed.**
+
+```html
+
+<!-- This is an HTML Comment -->
+
+```
 
 
 
