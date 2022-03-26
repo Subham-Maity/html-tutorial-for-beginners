@@ -234,5 +234,29 @@ view-source:https://www.google.com/
         <img src="http://www.easytolearning.com/webroot/ck_files/files/html-image-tag.png"/>
         </p>
 
+## 6.Br Tag
+
+**Used to add next line(line breaks) to your page**
+
+```html
+<br>
+```
 
 
+<p align="center">
+        <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1590818624-1.jpg"/>
+        </p>
+
+## 7.Bold, Italic & Underline Tags
+**Used to highlight text in your page**
+
+```html
+<b> Bold </b>
+<i> Italic </i>
+<u> Underline </u>
+```
+
+
+<p align="center">
+        <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1590818624-1.jpg"/>
+        </p>
