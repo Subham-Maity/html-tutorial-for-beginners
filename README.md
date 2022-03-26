@@ -15,7 +15,18 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
   * [7.HTML is NOT case sensitive](#7html-is-not-case-sensitive)
 * [**Level 2**](#level-2)
   * [1. Basic HTML Tags ](#1basic-html-tags)
-
+  * [2. Heading Tag ](#2heading-tag)
+  * [3.Paragraph Tag ](#3paragraph-tag)
+  * [4. Anchor Tag ](#4anchor-tag)
+  * [5. Image Tag ](#5image-tag)
+  * [6. Br Tag ](#6br-tag)
+  * [7. Bold, Italic & Underline Tags ](#7bold-italic--underline-tags)
+  * [8. Big & Small Tags ](#8big--small-tags)
+  * [9. Hr Tag ](#9hr-tag)
+  * [10.Subscript & Superscript Tag](#10subscript--superscript-tag)
+  * [11.Pre Tag](#11pre-tag)
+  
+  
 
 
 # **Intro**
@@ -314,6 +325,6 @@ text.
 
 
 <p align="center">
-        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/9.png?raw=true"/>
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/10.png?raw=true"/>
         </p>
 
