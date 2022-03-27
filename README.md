@@ -5,7 +5,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 
 ## Chapters
 * [**Intro**](#intro)
-* [**Level 1(Newbie)**](#level-1)
+* [**Level 1 (Newbie)**](#level-1)
   * [1. Basic HTML](#1basic-html)
   * [2. First HTML File](#2first-html-file)
   * [3. HTML Tag](#3html-tag)
@@ -13,7 +13,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
   * [5. QuickPoints](#5quick-points)
   * [6.Comments in HTML](#6comments-in-html)
   * [7.HTML is NOT case sensitive](#7html-is-not-case-sensitive)
-* [**Level 2(Advance )**](#level-2)
+* [**Level 2 (Advance)**](#level-2)
   * [1. Basic HTML Tags ](#1basic-html-tags)
   * [2. Heading Tag ](#2heading-tag)
   * [3.Paragraph Tag ](#3paragraph-tag)
@@ -25,7 +25,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
   * [9. Hr Tag ](#9hr-tag)
   * [10.Subscript & Superscript Tag](#10subscript--superscript-tag)
   * [11.Pre Tag](#11pre-tag)
-  
+* [**Level 3 (Master)**](#level-2)
   
 
 
