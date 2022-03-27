@@ -357,3 +357,80 @@ text.
 <p align="center">
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/12.png?raw=true"/>
         </p>
+
+## 2.Inside Main Tag
+
+**a.Section Tag For a section on your page**
+
+```html
+<section>
+```
+
+
+## **Code**
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The section element</h1>
+
+<section>
+  <h2>WWF History</h2>
+  <p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
+</section>
+
+<section>
+  <h2>WWF's Symbol</h2>
+  <p>The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London Zoo in the same year of the establishment of WWF.</p>
+</section>
+
+</body>
+</html>
+
+```
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/14.png?raw=true"/>
+        </p>
+
+
+
+**b.Article Tag For an article on your page**
+
+```html
+<article>
+```
+
+
+## **Code**
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The article element</h1>
+
+<article>
+  <h2>Google Chrome</h2>
+  <p>Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web browser today!</p>
+</article>
+
+<article>
+  <h2>Mozilla Firefox</h2>
+  <p>Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox has been the second most popular web browser since January, 2018.</p>
+</article>
+
+<article>
+  <h2>Microsoft Edge</h2>
+  <p>Microsoft Edge is a web browser developed by Microsoft, released in 2015. Microsoft Edge replaced Internet Explorer.</p>
+</article>
+
+</body>
+</html>
+
+```
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/15.png?raw=true"/>
+        </p>
