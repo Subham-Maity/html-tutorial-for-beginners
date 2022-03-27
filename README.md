@@ -605,3 +605,6 @@ List : Span Tags
 <time>
 
 ```
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/22.png?raw=true"/>
+        </p>
