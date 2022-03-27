@@ -525,6 +525,7 @@ text.
 **c.List : Div Tags**
 
 ```html
+List : Div Tags
 <address>
 <article>
 <aside>
@@ -559,3 +560,48 @@ text.
 <p align="center">
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/21.png?raw=true"/>
         </p>
+
+## 6.Span Tag
+**a.Span is also a container used for other HTML elements**
+
+**b.Inline Element (takes width as per size)**
+
+**c.List : Span Tags**
+
+```html
+List : Span Tags
+<a>
+<abbr>
+<acronym>
+<b>
+<bdo>
+<big>
+<br>
+<button>
+<cite>
+<code>
+<dfn>
+<em>
+<i>
+<img>
+<input>
+<kbd>
+<label>
+<map>
+<object>
+<tt>
+<var>
+<output>
+<q>
+<samp>
+<script>
+<select>
+<small>
+<span>
+<strong>
+<sub>
+<sup>
+<textarea>
+<time>
+
+```
