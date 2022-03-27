@@ -328,3 +328,32 @@ text.
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/10.png?raw=true"/>
         </p>
 
+# **Level 3**
+
+## 1.Page Layout Techniques
+
+**using Semantic tags for layout using the Right Tags**
+
+```html
+<header>
+  <main>
+    <footer>
+```
+
+## header
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/11.png?raw=true"/>
+        </p>
+
+## main 
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/13.png?raw=true"/>
+        </p>
+
+## footer
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/12.png?raw=true"/>
+        </p>
