@@ -27,11 +27,24 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
   * [11.Pre Tag](#11pre-tag)
 * [**Level 3 (Master)**](#level-3)
   * [1.Page Layout Techniques](#1page-layout-techniques)
-    * 
+    * [a.header](#header)
+    * [b.main](#main)
+    * [c.footer](#footer)
   * [2.Inside Main Tag ](#2inside-main-tag)
+     * [a.Section Tag](#asection-tag-for-a-section-on-your-page)
+     * [b.Article Tag For an article on your page](#barticle-tag-for-an-article-on-your-page)
+     * [c.Aside Tag For content aside main content(ads)](#caside-tag-for-content-aside-main-contentads)
   * [3.Revisiting Anchor Tag ](#3revisiting-anchor-tag)
+     * [a.For New Tab](#afor-new-tab)
+     * [b.For clickable Pic](#bfor-clickable-pic)
+     * [c.Aside Tag For content aside main content(ads)](#caside-tag-for-content-aside-main-contentads)
   * [4.Revisiting Image Tag ](#4revisiting-image-tag)
+     * [a.Set Height](#aset-height)
+     * [b.Set Width](#bset-width)
   * [5.Div Tag ](#5div-tag)
+     * [a.Container](#adiv-is-a-container-used-for-other-html-elements)
+     * [b.Block Element](#bblock-element-takes-full-width)
+     * [c.List : Div Tags](#clist--div-tags)
   * [6.Span Tag ](#6span-tag)
   
 
@@ -367,7 +380,7 @@ text.
 
 ## 2.Inside Main Tag
 
-**a.Section Tag For a section on your page**
+### **a.Section Tag For a section on your page**
 
 ```html
 <section>
@@ -403,7 +416,7 @@ text.
 
 
 
-**b.Article Tag For an article on your page**
+### **b.Article Tag For an article on your page**
 
 ```html
 <article>
@@ -443,7 +456,7 @@ text.
         </p>
 
 
-**c.Aside Tag For content aside main content(ads)**
+### **c.Aside Tag For content aside main content(ads)**
 
 ```html
 <aside>
@@ -477,7 +490,7 @@ text.
 
 ## 3.Revisiting Anchor Tag
 
-**a.For New Tab**
+### **a.For New Tab**
 
 ```html
 <a href="https://google.com" target="main"> Google </a>
@@ -487,7 +500,7 @@ text.
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/17.png?raw=true"/>
         </p>
 
-**b.For clickable Pic**
+### **b.For clickable Pic**
 
 ```html
 <a href="https://google.com"> <img src="link"> </a>
@@ -502,7 +515,7 @@ text.
 
 ## 4.Revisiting Image Tag
 
-**a.Set Height**
+### **a.Set Height**
 
 ```html
 <img src="link" height=50px >
@@ -512,7 +525,7 @@ text.
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/19.png?raw=true"/>
         </p>
 
-**b.Set Width**
+### **b.Set Width**
 
 ```html
 <img src="link" width=50px >
@@ -525,11 +538,11 @@ text.
 
 
 ## 5.Div Tag
-**a.Div is a container used for other HTML elements**
+### **a.Div is a container used for other HTML elements**
 
-**b.Block Element (takes full width)**
+### **b.Block Element (takes full width)**
 
-**c.List : Div Tags**
+### **c.List : Div Tags**
 
 ```html
 List : Div Tags
@@ -569,11 +582,11 @@ List : Div Tags
         </p>
 
 ## 6.Span Tag
-**a.Span is also a container used for other HTML elements**
+### **a.Span is also a container used for other HTML elements**
 
-**b.Inline Element (takes width as per size)**
+### **b.Inline Element (takes width as per size)**
 
-**c.List : Span Tags**
+### **c.List : Span Tags**
 
 ```html
 List : Span Tags
