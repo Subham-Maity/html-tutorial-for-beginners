@@ -26,6 +26,13 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
   * [10.Subscript & Superscript Tag](#10subscript--superscript-tag)
   * [11.Pre Tag](#11pre-tag)
 * [**Level 3 (Master)**](#level-3)
+  * [1.Page Layout Techniques](#1page-layout-techniques)
+    * 
+  * [2.Inside Main Tag ](#2inside-main-tag)
+  * [3.Revisiting Anchor Tag ](#3revisiting-anchor-tag)
+  * [4.Revisiting Image Tag ](#4revisiting-image-tag)
+  * [5.Div Tag ](#5div-tag)
+  * [6.Span Tag ](#6span-tag)
   
 
 
