@@ -46,6 +46,9 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
      * [b.Block Element](#bblock-element-takes-full-width)
      * [c.List : Div Tags](#clist--div-tags)
   * [6.Span Tag ](#6span-tag)
+     * [a.Container](#aspan-is-also-a-container-used-for-other-html-elements)
+     * [b.Inline Element](#binline-element-takes-width-as-per-size)
+     * [c.List : Span Tags](#clist--span-tags)
   
 
 
