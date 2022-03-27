@@ -434,3 +434,36 @@ text.
 <p align="center">
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/15.png?raw=true"/>
         </p>
+
+
+**c.Aside Tag For content aside main content(ads)**
+
+```html
+<aside>
+```
+
+
+## **Code**
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The aside element</h1>
+
+<p>My family and I visited The Epcot center this summer. The weather was nice, and Epcot was amazing! I had a great summer together with my family!</p>
+
+<aside>
+  <h4>Epcot Center</h4>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</aside>
+
+</body>
+</html>
+
+
+```
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/15.png?raw=true"/>
+        </p>
