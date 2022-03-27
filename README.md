@@ -508,7 +508,7 @@ text.
 **b.Set Width**
 
 ```html
-<a href="https://google.com"> <img src="link"> </a>
+<img src="link" width=50px >
 ```
 
 
