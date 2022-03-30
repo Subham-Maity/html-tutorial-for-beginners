@@ -4,7 +4,10 @@ I am **Subham Maity**
 I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
 
 ## Chapters
+*******
 * [**Intro**](#intro)
+
+*******
 * [**Level 1 (Newbie)**](#level-1)
   * [1. Basic HTML](#1basic-html)
   * [2. First HTML File](#2first-html-file)
@@ -13,6 +16,8 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
   * [5. QuickPoints](#5quick-points)
   * [6.Comments in HTML](#6comments-in-html)
   * [7.HTML is NOT case sensitive](#7html-is-not-case-sensitive)
+*******
+
 * [**Level 2 (Advance)**](#level-2)
   * [1. Basic HTML Tags ](#1basic-html-tags)
   * [2. Heading Tag ](#2heading-tag)
@@ -25,6 +30,8 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
   * [9. Hr Tag ](#9hr-tag)
   * [10.Subscript & Superscript Tag](#10subscript--superscript-tag)
   * [11.Pre Tag](#11pre-tag)
+*******
+
 * [**Level 3 (Master)**](#level-3)
   * [1.Page Layout Techniques](#1page-layout-techniques)
     * [a.header](#header)
@@ -49,7 +56,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
      * [a.Container](#aspan-is-also-a-container-used-for-other-html-elements)
      * [b.Inline Element](#binline-element-takes-width-as-per-size)
      * [c.List : Span Tags](#clist--span-tags)
-  
+ *******
 
 
 # **Intro**
