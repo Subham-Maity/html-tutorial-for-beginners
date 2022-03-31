@@ -64,18 +64,23 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 ## **What is HTML ?**
 
 ```JavaScript
-An HTML file contains the structure of the page itself. It is kind of like the structure of the building.
+An HTML file contains the structure of the page itself. 
+It is kind of like the structure of the building.
 ```
 
 ## **What is CSS ?**
 ```JavaScript
-A CSS file contains the styling of the page. It allows you to change colors, positioning and more. It is kind of like the design of the building itself.
+A CSS file contains the styling of the page. 
+It allows you to change colors, positioning and more. 
+It is kind of like the design of the building itself.
 ```
 
 ## **What is JavaScript ?**
 
 ```JavaScript
-A JavaScript file determines the dynamic and interactive elements on the page. It determines what happens when users click, hover or type within certain elements. This is kind of like the functionality of the building.
+A JavaScript file determines the dynamic and interactive elements on the page. 
+It determines what happens when users click, hover or type within certain elements. 
+This is kind of like the functionality of the building.
 ```
 
 # **Level 1**
