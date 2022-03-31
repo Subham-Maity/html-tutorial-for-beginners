@@ -57,6 +57,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
      * [b.Inline Element](#binline-element-takes-width-as-per-size)
      * [c.List : Span Tags](#clist--span-tags)
  *******
+* [**Level 4 (Pro)**](#)
 
 
 # **Intro**
@@ -642,4 +643,91 @@ List : Span Tags
 ```
 <p align="center">
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/22.png?raw=true"/>
+        </p>
+
+# **Level 4**
+
+## 1.Ordered and UnOrdered List 
+
+**Lists are used to represent real life list data.**
+
+| Type 1         | Type 2      |
+|----------------|-------------|
+| **unordered**  | **ordered** |
+
+### **Unordered**
+```html
+<ul>
+<li> Apple </li>
+<li> Mango </li>
+</ul>
+```
+Implement
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+<header></header>
+<main>
+  <ul>
+    <li>Apple</li>
+    <li>Mango</li>
+    <li>Litchi</li>
+  </ul>
+</main>
+<footer></footer>
+
+
+</body>
+</html>
+```
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/24.png?raw=true"/>
+        </p>
+
+### **ordered**
+```html
+<ol>
+  <li> Apple </li>
+  <li> Mango </li>
+</ol>
+```
+
+Implement
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+<header></header>
+<main>
+  <ol>
+    <li>Apple</li>
+    <li>Mango</li>
+    <li>Litchi</li>
+  </ol>
+</main>
+<footer></footer>
+
+
+</body>
+</html>
+```
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/23.png?raw=true"/>
         </p>
