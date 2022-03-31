@@ -63,12 +63,12 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 [**For Detailed with visualization**](https://blog.codeanalogies.com/2018/05/09/the-relationship-between-html-css-and-javascript-explained/) 
 ## **What is HTML ?**
 
-```<HTML:xml></HTML:xml>
+```JavaScript
 An HTML file contains the structure of the page itself. It is kind of like the structure of the building.
 ```
 
 ## **What is CSS ?**
-```CSS
+```JavaScript
 A CSS file contains the styling of the page. It allows you to change colors, positioning and more. It is kind of like the design of the building itself.
 ```
 
