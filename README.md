@@ -783,7 +783,7 @@ Implement
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/23.png?raw=true"/>
         </p>
 
-#### Unordered Sublist
+#### Ordered Sublist
 
 Implement
 
@@ -819,3 +819,65 @@ Implement
 <p align="center">
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/26.png?raw=true"/>
         </p>
+
+
+
+## 2.Tables in HTML
+
+**Tables are used to represent real life table data.**
+
+| ``` <tr>```    | used to display table row    |
+|----------------|------------------------------|
+| ``` <td> ```   | used to display table data   |
+| ``` <th>```    | used to display table header |
+
+### tr tag
+
+Implement
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h1>The tr element</h1>
+
+<p>The tr element defines a row in a table:</p>
+
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+```
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/27.png?raw=true"/>
+        </p>
+
+
+
+
+
+
+ 
+
