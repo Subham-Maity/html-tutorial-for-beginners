@@ -1060,5 +1060,55 @@ table, th, td {
 <p align="center">
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/31.png?raw=true"/>
         </p>
- 
 
+
+### Colspan attribute in Tables
+```html
+<th colspan="2" >
+
+  Sum: $180 
+</th>
+
+```
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h1>The td colspan attribute</h1>
+
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+  <tr>
+    <td colspan="2">Sum: $180</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+```
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/32.png?raw=true"/>
+        </p>
