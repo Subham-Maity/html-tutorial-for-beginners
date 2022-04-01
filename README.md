@@ -74,6 +74,12 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
     * [Caption in Tables](#caption-in-tables)
     * [thead & tbody & tfoot in Tables](#thead--tbody--tfoot-in-tables)
     * [Colspan attribute in Tables](#colspan-attribute-in-tables)
+  * [3.Form in HTMl](#3form-in-html)
+    * [Action in Form](#action-in-form)
+    * [LABEL](#label)
+    * [Radio Button](#radio-button)
+    * [Implement A Proper Form](#implement-a-proper-form)
+    
 
 
 # **Intro**
