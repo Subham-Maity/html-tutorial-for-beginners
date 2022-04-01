@@ -78,8 +78,12 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
     * [Action in Form](#action-in-form)
     * [LABEL](#label)
     * [Radio Button](#radio-button)
+    * [Class & Id](#class--id)
+    * [Checkbox](#checkbox)
+    * [Textarea](#textarea)
+    * [Select Tag](#select-tag)
     * [Implement A Proper Form](#implement-a-proper-form)
-    * [Class & Id](#)
+ 
     
 
 
