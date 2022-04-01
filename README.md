@@ -1,8 +1,14 @@
-## I cover all aspects of HTML from basic to advanced 
+# HTML Tutorial For Beginners
+## I cover all aspects of HTML from Basic to Pro Level
 # Writer Intro
-I am **Subham Maity**
-I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
+I am **Subham Maity.**
 
+**Welcome to this book on "Learning HTML In 4 Steps".
+I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.**
+
+**At ```CodeXam```, we ask ourselves one question every day: "How do we create awesome learning experiences?"**
+
+### Help us improve this guide - Fork, Pull Requests, Shares and Likes are recommended!
 ## Chapters
 *******
 * [**Intro**](#intro)
