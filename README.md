@@ -12,7 +12,6 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 ## Chapters
 *******
 * [**Intro**](#intro)
-
 *******
 * [**Level 1 (Newbie)**](#level-1)
   * [1. Basic HTML](#1basic-html)
@@ -806,7 +805,7 @@ Implement
     <li>Mango</li>
     <ol>
       <li>color : yellow</li>
-      <li>season : summer /li>
+      <li>season : summer </li>
     </ol>
     <li>Litchi</li>
   </ol>
