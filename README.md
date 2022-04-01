@@ -1352,6 +1352,71 @@ The ```<select>``` element is most often used in a form, to collect user input.
         <img src="https://github.com/Subham-Maity/html-tutorial-for-beginners/blob/master/5.Images(ignore)/34.png?raw=true"/>
         </p>
 
+## Video Embed 
+
+### iframe Tag
+website inside website
+
+```html
+<iframe src="link">
+
+```
+
+Implement 
+```html
+<!DOCTYPE html>
+<html>
+<body>
+<iframe
+        width="424"
+        height="238"
+        src="https://www.youtube.com/embed/q933Vpo-Naw"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+></iframe>
+</body>
+</html>
+
+
+```
+
+### Video Tag
+
+The ```<video>``` tag is used to embed video content in a document, such as a movie clip or other video streams.
+
+The ```<video>``` tag contains one or more <source> tags with different video sources. The browser will choose the first source it supports.
+
+The text between the ```<video>``` and ```</video>``` tags will only be displayed in browsers that do not support the ```<video>``` element.
+
+```html
+<video src="myVid.mp4"> My Video </video>
+
+```
+**Attributes**
+- controls
+- height
+- width
+- loop
+- autoplay
+
+Implement
+```html
+<!DOCTYPE html>
+<html>
+<body>
+<video width="560" height="315" src="/myVideo.mov" controls> my video
+  <!-- <video width="560" height="315" src="/myVideo.mov" autoplay> my video -->
+  <!-- <video width="560" height="315" src="/myVideo.mov" loop> my video -->
+</video>
+</body>
+</html>
+
+
+```
+
+
 
 
 
