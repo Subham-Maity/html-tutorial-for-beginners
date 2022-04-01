@@ -1058,7 +1058,7 @@ table, th, td {
 
 ```
 <p align="center">
-        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/30.png?raw=true"/>
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/31.png?raw=true"/>
         </p>
  
 
