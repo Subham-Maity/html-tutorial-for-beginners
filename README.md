@@ -1118,3 +1118,57 @@ table, th, td {
 <p align="center">
         <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/32.png?raw=true"/>
         </p>
+
+
+
+## 3.Form in HTMl
+**Forms are used to collect data from the user**
+
+**Eg- sign up/login/help requests/contact me**
+
+```html
+<form>
+form content
+</form>
+
+```
+Implement
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Text input fields</h2>
+
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe">
+</form>
+
+<p>Note that the form itself is not visible.</p>
+
+<p>Also note that the default width of text input fields is 20 characters.</p>
+
+</body>
+</html>
+
+```
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/33.png?raw=true"/>
+        </p>
+
+
+### Action in Form
+
+Action attribute is used to define what action needs to be
+performed when a form is submitted
+```html
+<form action="/action.php" >
+```
+
+
+
+
+
