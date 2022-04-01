@@ -875,6 +875,89 @@ table, th, td {
         </p>
 
 
+### td tag
+
+Implement
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h1>The td element</h1>
+
+<p>The td element defines a cell in a table:</p>
+
+<table>
+  <tr>
+    <td>Cell A</td>
+    <td>Cell B</td>
+  </tr>
+  <tr>
+    <td>Cell C</td>
+    <td>Cell D</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+```
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/28.png?raw=true"/>
+        </p>
+
+
+### th tag
+
+Implement
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h1>The th element</h1>
+
+<p>The th element defines a header cell in a table:</p>
+
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+```
+<p align="center">
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/29.png?raw=true"/>
+        </p>
 
 
 
