@@ -1169,7 +1169,66 @@ performed when a form is submitted
 
 ```
 
-Implement A Proper Form 
+### Form Element : Input
+
+Taking input from user and placeholder means what will be written down already in that blank space
+```html
+<input type="text" placeholder="Enter Name">
+
+```
+
+### LABEL 
+Screen reader users (will read out loud the label, when the user is focused on the element)
+Users who have difficulty clicking on very small regions (such as checkboxes) - because when a user clicks the text within the <label> element, it toggles the input (this increases the hit area).
+```html
+<input type="radio" value="class X" name="class" id="id1">
+<label for="id1">
+</label>
+<input type="radio" value="class X" name="class" id="id2">
+<label for="id2">
+</label>
+```
+### Radio Button
+Radio buttons let a user select only one of a limited number of choices:
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Display Radio Buttons</h1>
+
+<form action="/action_page.php">
+  <p>Please select your favorite Web language:</p>
+    <input type="radio" id="html" name="fav_language" value="HTML">
+    <label for="html">HTML</label><br>
+    <input type="radio" id="css" name="fav_language" value="CSS">
+    <label for="css">CSS</label><br>
+    <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+    <label for="javascript">JavaScript</label>
+
+  <br>
+
+  <p>Please select your age:</p>
+  <input type="radio" id="age1" name="age" value="30">
+  <label for="age1">0 - 30</label><br>
+  <input type="radio" id="age2" name="age" value="60">
+  <label for="age2">31 - 60</label><br>
+  <input type="radio" id="age3" name="age" value="100">
+  <label for="age3">61 - 100</label><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
+
+```
+
+
+
+
+### Implement A Proper Form 
+
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
