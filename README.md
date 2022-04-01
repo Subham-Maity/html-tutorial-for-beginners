@@ -979,11 +979,10 @@ table, th, td {
 </head>
 <body>
 
-<h1>The tr element</h1>
-
-<p>The tr element defines a row in a table:</p>
+<h1>The caption element</h1>
 
 <table>
+  <caption>Monthly savings</caption>
   <tr>
     <th>Month</th>
     <th>Savings</th>
@@ -994,7 +993,7 @@ table, th, td {
   </tr>
   <tr>
     <td>February</td>
-    <td>$80</td>
+    <td>$50</td>
   </tr>
 </table>
 
@@ -1003,7 +1002,7 @@ table, th, td {
 
 ```
 <p align="center">
-        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/27.png?raw=true"/>
+        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/30.png?raw=true"/>
         </p>
 
 
