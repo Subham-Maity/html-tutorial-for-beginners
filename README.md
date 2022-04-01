@@ -1156,7 +1156,7 @@ Implement
 
 ```
 <p align="center">
-        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/33.png?raw=true"/>
+        <img src="https://github.com/Subham-Maity/html-tutorial-for-beginners/blob/master/5.Images(ignore)/33.png?raw=true"/>
         </p>
 
 
@@ -1166,9 +1166,77 @@ Action attribute is used to define what action needs to be
 performed when a form is submitted
 ```html
 <form action="/action.php" >
+
 ```
 
+Implement A Proper Form 
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+</head>
+<h4>Registration Form</h4>
+<form action="/action.php">
+  <input type="text" placeholder="username" />
+  <br />
+  <br />
+  <input type="password" placeholder="password" />
+  <br /><br />
+  <h5>Select your class</h5>
+  <label for="101">
+    <input type="radio" value="class XI" name="class" id="101" />class XI
+  </label>
+  <br /><br />
+  <label for="102">
+    <input type="radio" value="class XII" name="class" id="102" />class XII
+  </label>
+  <br /><br />
+  <h5>Select Fav Subjects</h5>
+  <label for="math">
+    <input type="checkbox" value="math" name="subject" id="101" /> Math
+  </label>
+  <br /><br />
+  <label for="phy">
+    <input type="checkbox" value="phy" name="subject" id="102" /> Physics
+  </label>
+  <br /><br />
+  <label for="chem">
+    <input type="checkbox" value="chem" name="subject" id="103" /> Chemistry
+  </label>
+  <br /><br />
+  <label for="CS">
+    <input type="checkbox" value="CS" name="subject" id="104" /> Computer
+    Science
+  </label>
+  <br /><br />
+  Select your city
+  <select name="city">
+    <option value="Delhi">Delhi</option>
+    <option value="Banglore">Banglore</option>
+    <option value="Pune">Pune</option>
+    <option value="Mumbai">Mumbai</option>
+  </select>
+  <br /><br />
+  <textarea
+          name="feedback"
+          id="101"
+          placeholder="please give your valuable feedback here"
+          rows="5"
+  ></textarea>
+  <br />
+  <input type="submit" value="submit" />
+</form>
+<body></body>
+</html>
 
 
+```
 
+<p align="center">
+        <img src="https://github.com/Subham-Maity/html-tutorial-for-beginners/blob/master/5.Images(ignore)/34.png?raw=true"/>
+        </p>
 
