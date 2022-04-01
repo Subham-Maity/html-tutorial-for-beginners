@@ -79,6 +79,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
     * [LABEL](#label)
     * [Radio Button](#radio-button)
     * [Implement A Proper Form](#implement-a-proper-form)
+    * [Class & Id](#)
     
 
 
@@ -1228,6 +1229,48 @@ Radio buttons let a user select only one of a limited number of choices:
 </html>
 
 ```
+### Class & Id
+The HTML class attribute is used to specify a class for an HTML element.
+A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page:
+```html
+<div id="id1" class="group1">
+</div>
+
+
+<div id="id2"> class="group1">
+</div>
+
+```
+### Checkbox
+Let the user select one or more options of a limited number of choices:
+```html
+
+<label for="id1">
+  <input type="checkbox" value="class X" name="class" id="id2">
+</label>
+<label for="id2">
+  <input type="checkbox" value="class X" name="class" id="id2">
+</label>
+
+```
+### Textarea
+A multi-line text input control (text area):
+```html
+<textarea name="feedback" id="feedback" placeholder="Please add Feedback">
+  
+</textarea>
+```
+
+### Select Tag 
+The ```<select>``` element is used to create a drop-down list.
+The ```<select>``` element is most often used in a form, to collect user input.
+```html
+<select name="city" id="city">
+  <option value="Delhi"> Delhi </option>
+  <option value="Mumbai"> Delhi </option>
+  <option value="Bangalore"> Delhi </option>
+</select>
+```
 
 
 
@@ -1304,4 +1347,9 @@ Radio buttons let a user select only one of a limited number of choices:
 <p align="center">
         <img src="https://github.com/Subham-Maity/html-tutorial-for-beginners/blob/master/5.Images(ignore)/34.png?raw=true"/>
         </p>
+
+
+
+
+
 
