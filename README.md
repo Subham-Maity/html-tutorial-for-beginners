@@ -224,9 +224,7 @@ This is kind of like the functionality of the building.
 **4.We can use inspect element/view page source to edit html -**
 
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/HTML-Tutorial-for-Beginners/blob/master/5.Images(ignore)/4.png?raw=true"/>
-        </p>
+
 
 **Like This** 
 ```html
